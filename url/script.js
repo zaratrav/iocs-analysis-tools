@@ -1,0 +1,1 @@
+function run(){res.innerText='URL appears safe (demo)';}

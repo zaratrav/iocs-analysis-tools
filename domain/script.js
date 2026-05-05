@@ -1,0 +1,1 @@
+function run(){res.innerText='Domain reputation: Good (demo)';}

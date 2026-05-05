@@ -1,0 +1,1 @@
+function run(){res.innerText='No malicious indicators found (demo)';}

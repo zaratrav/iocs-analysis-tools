@@ -1,0 +1,1 @@
+function run(){res.innerText='Hash not found in DB (demo)';}

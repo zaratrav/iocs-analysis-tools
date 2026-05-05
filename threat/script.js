@@ -1,0 +1,1 @@
+function run(){res.innerText='Threat intel: No alerts (demo)';}

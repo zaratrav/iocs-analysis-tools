@@ -1,0 +1,1 @@
+function run(){res.innerText='IP reputation: Clean (demo)';}
